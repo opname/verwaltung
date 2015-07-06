@@ -1,0 +1,9 @@
+F:\1.opname.git.repos\BaseProjects\verwaltung\verwaltung.Infrastructure.Common\bin\Debug\verwaltung.Infrastructure.Common.dll
+F:\1.opname.git.repos\BaseProjects\verwaltung\verwaltung.Infrastructure.Common\bin\Debug\verwaltung.Infrastructure.Common.pdb
+F:\1.opname.git.repos\BaseProjects\verwaltung\verwaltung.Infrastructure.Common\obj\Debug\verwaltung.Infrastructure.Common.dll
+F:\1.opname.git.repos\BaseProjects\verwaltung\verwaltung.Infrastructure.Common\obj\Debug\verwaltung.Infrastructure.Common.pdb
+F:\1.opname.git.repos\verwaltung\verwaltung.Infrastructure.Common\bin\Debug\verwaltung.Infrastructure.Common.dll
+F:\1.opname.git.repos\verwaltung\verwaltung.Infrastructure.Common\bin\Debug\verwaltung.Infrastructure.Common.pdb
+F:\1.opname.git.repos\verwaltung\verwaltung.Infrastructure.Common\obj\Debug\opname.verwaltung.Infrastructure.Common.csprojResolveAssemblyReference.cache
+F:\1.opname.git.repos\verwaltung\verwaltung.Infrastructure.Common\obj\Debug\verwaltung.Infrastructure.Common.dll
+F:\1.opname.git.repos\verwaltung\verwaltung.Infrastructure.Common\obj\Debug\verwaltung.Infrastructure.Common.pdb

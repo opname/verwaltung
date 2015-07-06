@@ -1,0 +1,13 @@
+F:\1.opname.git.repos\BaseProjects\verwaltung\verwaltung.Management.Domain\bin\Debug\verwaltung.Management.Domain.dll
+F:\1.opname.git.repos\BaseProjects\verwaltung\verwaltung.Management.Domain\bin\Debug\verwaltung.Management.Domain.pdb
+F:\1.opname.git.repos\BaseProjects\verwaltung\verwaltung.Management.Domain\bin\Debug\MongoDB.Bson.dll
+F:\1.opname.git.repos\BaseProjects\verwaltung\verwaltung.Management.Domain\bin\Debug\MongoDB.Bson.xml
+F:\1.opname.git.repos\BaseProjects\verwaltung\verwaltung.Management.Domain\obj\Debug\verwaltung.Management.Domain.dll
+F:\1.opname.git.repos\BaseProjects\verwaltung\verwaltung.Management.Domain\obj\Debug\verwaltung.Management.Domain.pdb
+F:\1.opname.git.repos\verwaltung\verwaltung.Management.Domain\bin\Debug\verwaltung.Management.Domain.dll
+F:\1.opname.git.repos\verwaltung\verwaltung.Management.Domain\bin\Debug\verwaltung.Management.Domain.pdb
+F:\1.opname.git.repos\verwaltung\verwaltung.Management.Domain\bin\Debug\MongoDB.Bson.dll
+F:\1.opname.git.repos\verwaltung\verwaltung.Management.Domain\bin\Debug\MongoDB.Bson.xml
+F:\1.opname.git.repos\verwaltung\verwaltung.Management.Domain\obj\Debug\opname.verwaltung.Management.Domain.csprojResolveAssemblyReference.cache
+F:\1.opname.git.repos\verwaltung\verwaltung.Management.Domain\obj\Debug\verwaltung.Management.Domain.dll
+F:\1.opname.git.repos\verwaltung\verwaltung.Management.Domain\obj\Debug\verwaltung.Management.Domain.pdb

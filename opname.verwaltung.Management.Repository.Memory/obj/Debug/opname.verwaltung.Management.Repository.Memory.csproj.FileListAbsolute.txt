@@ -1,0 +1,10 @@
+F:\1.opname.git.repos\BaseProjects\verwaltung\opname.verwaltung.Management.Repository.Memory\bin\Debug\opname.verwaltung.Management.Repository.Memory.dll
+F:\1.opname.git.repos\BaseProjects\verwaltung\opname.verwaltung.Management.Repository.Memory\bin\Debug\opname.verwaltung.Management.Repository.Memory.pdb
+F:\1.opname.git.repos\BaseProjects\verwaltung\opname.verwaltung.Management.Repository.Memory\obj\Debug\opname.verwaltung.Management.Repository.Memory.csprojResolveAssemblyReference.cache
+F:\1.opname.git.repos\BaseProjects\verwaltung\opname.verwaltung.Management.Repository.Memory\obj\Debug\opname.verwaltung.Management.Repository.Memory.dll
+F:\1.opname.git.repos\BaseProjects\verwaltung\opname.verwaltung.Management.Repository.Memory\obj\Debug\opname.verwaltung.Management.Repository.Memory.pdb
+F:\1.opname.git.repos\verwaltung\opname.verwaltung.Management.Repository.Memory\bin\Debug\opname.verwaltung.Management.Repository.Memory.dll
+F:\1.opname.git.repos\verwaltung\opname.verwaltung.Management.Repository.Memory\bin\Debug\opname.verwaltung.Management.Repository.Memory.pdb
+F:\1.opname.git.repos\verwaltung\opname.verwaltung.Management.Repository.Memory\obj\Debug\opname.verwaltung.Management.Repository.Memory.csprojResolveAssemblyReference.cache
+F:\1.opname.git.repos\verwaltung\opname.verwaltung.Management.Repository.Memory\obj\Debug\opname.verwaltung.Management.Repository.Memory.dll
+F:\1.opname.git.repos\verwaltung\opname.verwaltung.Management.Repository.Memory\obj\Debug\opname.verwaltung.Management.Repository.Memory.pdb
